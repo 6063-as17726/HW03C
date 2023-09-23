@@ -1,4 +1,11 @@
 # p5.js Template
+For this assignment, I have to create 50 points and join them with lines. 
+My process - First I need to draw 50 points, which means I run a loop 50 times, and create 50 random x and y positions. 
+Once I created the loop to create 50 points, I relaized that to create the lines, I will need to know the ocoordinates for 2 points at all times. 
+So I changed the loop to create 2 random points at each time, and subsequently draw a line connecting the 2. 
+
+
+
 
 This is a README file that can be used to describe and document your assignment.
 
